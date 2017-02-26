@@ -8,4 +8,4 @@ git push origin master:NameOfBranch //Case sensitive, always use master but make
 ```
 https://git-scm.com/download/win
 
-##SEND ME YOUR NamES OFOR GITHUB ON SLACK
+##SEND ME YOUR NAMES OFOR GITHUB ON SLACK
